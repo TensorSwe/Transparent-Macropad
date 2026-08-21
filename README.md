@@ -10,3 +10,4 @@ A 6-key macropad with an OLED screen, rotary encoder, customizable LEDs and a se
 6x SK6812 MINI-E LEDs,
 1x 0.91 inch OLED display,
 4x M3x5mx4mm heatset inserts.
+4x M3x16mm screws (not in approved parts list)
