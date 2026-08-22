@@ -3,16 +3,29 @@
 
 A 6-key macropad with an OLED screen, rotary encoder, customizable LEDs and a see-trough case.
 
+_(This is a project made for the Hackpad mission on Stardance)_
+
+
 **Parts needed:**
+
 1x Seeed XIAO RP2040,
+
 6x through-hole 1N4148 Diodes,
+
 6x MX-Style Switches,
+
 6x white blank DSA keycaps,
+
 1x EC11 Rotary encoder,
+
 6x SK6812 MINI-E LEDs,
+
 1x 0.91 inch OLED display,
+
 4x M3x5mx4mm heatset inserts,
+
 4x M3x10mm screws (not in approved parts list).
+
 
 **More Images:**
 <img width="1408" height="890" alt="image" src="https://github.com/user-attachments/assets/e9824588-e9ac-45e2-8d1e-0aac1008efdc" />
