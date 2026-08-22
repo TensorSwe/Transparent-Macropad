@@ -32,3 +32,5 @@ _(This is a project made for the Hackpad mission on Stardance)_
 <img width="1361" height="890" alt="Skärmbild 2026-08-21 181953" src="https://github.com/user-attachments/assets/20284514-4bc1-4d0d-9d57-9b82902178f3" />
 <img width="762" height="560" alt="Skärmbild 2026-08-20 180517" src="https://github.com/user-attachments/assets/defdb60e-7c2d-4afd-8e5c-c804b968c723" />
 <img width="1167" height="662" alt="Skärmbild 2026-08-16 124424" src="https://github.com/user-attachments/assets/9b5e901f-5bca-416a-ad24-12887048dc47" />
+<img width="732" height="774" alt="Skärmbild 2026-08-22 203246" src="https://github.com/user-attachments/assets/514e105f-62c9-4bfd-bf40-c57a98e41a82" />
+<img width="666" height="787" alt="Skärmbild 2026-08-22 203300" src="https://github.com/user-attachments/assets/f0d4fd87-ff30-40b0-937f-e48965de46b9" />
