@@ -5,6 +5,9 @@ README.md
 ## About:
 A 6-key macropad featuring a volume knob, an OLED screen, and 6 addressable LEDs.
 
+**Project Link:**
+https://stardance.hackclub.com/projects/45016
+
 ## Parts
 * **MCU:** 1x Seeed Studio XIAO RP2040
 * **Switches:** 6x MX-Style Switches
