@@ -30,8 +30,11 @@ Schematic:
 <img width="1578" height="974" alt="image" src="https://github.com/user-attachments/assets/64cfc874-14fc-4fc5-a323-cfa0e17b1270" />
 
 
-**More Images:**
+**Size & Assembling:**
+<img width="1285" height="1102" alt="image" src="https://github.com/user-attachments/assets/c7fe71c5-b60c-4c37-a0e3-51144bd75854" />
 <img width="1408" height="890" alt="image" src="https://github.com/user-attachments/assets/e9824588-e9ac-45e2-8d1e-0aac1008efdc" />
+
+**Other Images:**
 <img width="1361" height="890" alt="Skärmbild 2026-08-21 181953" src="https://github.com/user-attachments/assets/20284514-4bc1-4d0d-9d57-9b82902178f3" />
 <img width="762" height="560" alt="Skärmbild 2026-08-20 180517" src="https://github.com/user-attachments/assets/defdb60e-7c2d-4afd-8e5c-c804b968c723" />
 <img width="1167" height="662" alt="Skärmbild 2026-08-16 124424" src="https://github.com/user-attachments/assets/9b5e901f-5bca-416a-ad24-12887048dc47" />
