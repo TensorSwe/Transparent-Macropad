@@ -26,6 +26,9 @@ _(This is a project made for the Hackpad mission on Stardance)_
 
 4x M3x10mm screws (not in approved parts list).
 
+Schematic:
+<img width="1578" height="974" alt="image" src="https://github.com/user-attachments/assets/64cfc874-14fc-4fc5-a323-cfa0e17b1270" />
+
 
 **More Images:**
 <img width="1408" height="890" alt="image" src="https://github.com/user-attachments/assets/e9824588-e9ac-45e2-8d1e-0aac1008efdc" />
