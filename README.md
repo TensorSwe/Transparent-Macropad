@@ -1,42 +1,17 @@
-# Transparent-Macropad
-<img width="1235" height="987" alt="Skärmbild 2026-08-15 123445" src="https://github.com/user-attachments/assets/521abeed-e881-4d25-9dad-45ff0f946913" />
+README.md
+# 6-Key Custom Macropad
 
-A 6-key macropad with an OLED screen, rotary encoder, customizable LEDs and a see-trough case.
+A custom 2x3 macropad built around the Seeed Studio XIAO RP2040 microcontroller featuring a rotary encoder, an SSD1306 OLED display, and RGB backlighting.
 
-_(This is a project made for the Hackpad mission on Stardance)_
+## Hardware Features
+* **MCU:** Seeed Studio XIAO RP2040
+* **Keys:** 6 mechanical switches configured in a 2x3 matrix
+* **Encoder:** Rotary encoder with integrated push-button
+* **Display:** 0.91" SSD1306 I2C OLED (128x32)
+* **Lighting:** WS2812B addressable RGB LEDs
 
-
-**Parts needed:**
-
-1x Seeed XIAO RP2040,
-
-6x through-hole 1N4148 Diodes,
-
-6x MX-Style Switches,
-
-6x white blank DSA keycaps,
-
-1x EC11 Rotary encoder,
-
-6x SK6812 MINI-E LEDs,
-
-1x 0.91 inch OLED display,
-
-4x M3x5mx4mm heatset inserts,
-
-4x M3x10mm screws (not in approved parts list).
-
-Schematic:
-<img width="1578" height="974" alt="image" src="https://github.com/user-attachments/assets/64cfc874-14fc-4fc5-a323-cfa0e17b1270" />
-
-
-**Size & Assembling:**
-<img width="1285" height="1102" alt="image" src="https://github.com/user-attachments/assets/c7fe71c5-b60c-4c37-a0e3-51144bd75854" />
-<img width="1408" height="890" alt="image" src="https://github.com/user-attachments/assets/e9824588-e9ac-45e2-8d1e-0aac1008efdc" />
-
-**Other Images:**
-<img width="1361" height="890" alt="Skärmbild 2026-08-21 181953" src="https://github.com/user-attachments/assets/20284514-4bc1-4d0d-9d57-9b82902178f3" />
-<img width="762" height="560" alt="Skärmbild 2026-08-20 180517" src="https://github.com/user-attachments/assets/defdb60e-7c2d-4afd-8e5c-c804b968c723" />
-<img width="1167" height="662" alt="Skärmbild 2026-08-16 124424" src="https://github.com/user-attachments/assets/9b5e901f-5bca-416a-ad24-12887048dc47" />
-<img width="732" height="774" alt="Skärmbild 2026-08-22 203246" src="https://github.com/user-attachments/assets/514e105f-62c9-4bfd-bf40-c57a98e41a82" />
-<img width="666" height="787" alt="Skärmbild 2026-08-22 203300" src="https://github.com/user-attachments/assets/f0d4fd87-ff30-40b0-937f-e48965de46b9" />
+## Repository Layout
+* `/cad`: 3D STEP assembly files for enclosure design
+* `/firmware`: QMK firmware source code and keymap configuration
+* `/pcb`: KiCad schematic, layout, and project files
+* `/production`: Manufacturing outputs (Gerbers, STL 3D models, compiled `.uf2` firmware)
