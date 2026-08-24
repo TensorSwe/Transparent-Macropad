@@ -34,3 +34,5 @@ https://stardance.hackclub.com/projects/45016
 <img width="1167" height="662" alt="Skärmbild 2026-08-16 124424" src="https://github.com/user-attachments/assets/24dcd2b3-5b3d-407b-a07c-a13c006ec923" />
 <img width="732" height="774" alt="Skärmbild 2026-08-22 203246" src="https://github.com/user-attachments/assets/d24dbc74-3b7a-4b19-a6c9-372ff79307b8" />
 <img width="666" height="787" alt="Skärmbild 2026-08-22 203300" src="https://github.com/user-attachments/assets/c2ff5cd2-1b36-492b-a7a9-92d4e7efa046" />
+
+_(The coding for the firmware was made using AI)_
